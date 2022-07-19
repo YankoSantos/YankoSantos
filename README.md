@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YankoSantos
 - 👀 I’m interested in all technologies
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning all :)
 - 📫 How to reach me - yanko.santos@hotmail.com
 
 <!---
